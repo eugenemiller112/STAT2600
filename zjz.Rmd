@@ -43,6 +43,9 @@ Improve my problem solving skills. This means being able to ask better questions
 
 I'm an extremely picky eater. 
 
+**Feedback** I think you did very well 
+
+
 # Emily Archambault
 
 ![](mephoto.jpg){width=150px}
@@ -90,15 +93,14 @@ My favorite color is blue.
  4.I am hoping to learn how to use R language to analyze data and some basic knowledge of statsics. What's more, I want to get  'A-' or 'A' in this course.
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
  
-<<<<<<< Updated upstream
- 
-=======
->>>>>>> Stashed changes
+
+ **Feedback**
 
 
- # Jingzhi Zhang
+# Jingzhi Zhang
 
- ![](HIQI6256.jpg)
+ ![](HIQI6256.jpg){width=300}
+
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
 * How many people in the world

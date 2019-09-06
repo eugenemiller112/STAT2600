@@ -93,9 +93,10 @@ My favorite color is blue.
 
  
   
-  # Jingzhi Zhang
+# Jingzhi Zhang
 
- ![](HIQI6256.jpg)
+ ![](HIQI6256.jpg){width=300}
+
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
 * How many people in the world
