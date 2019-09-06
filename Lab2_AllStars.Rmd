@@ -77,7 +77,7 @@ Learn R and learning the basics of data science.
 My favorite color is blue.
 
 # Kaiyuan Fan
- ![](photo1.jpg)
+ ![](photo1.jpg){width=250}
  Why people in Boulder love to skating? 
  I would love to internship in a big company to gain experience and then five years later I want to be an leader of a team in the company.
  The greatest career accomplishment I hope is being an vice president of a middle or big company.
