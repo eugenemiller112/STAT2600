@@ -15,7 +15,7 @@ To learn how to work effectively as a group to use data science to come to relev
 
 # Johnny Tamanaha
 
-![](images/IMG_2060(1).jpg){width=250px}
+![](IMG_2060(1).jpg){width=250px}
 
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
@@ -52,7 +52,7 @@ I'm an extremely picky eater.
 * A fun fact about myself is that I once pet Obama's dog while he was President
 
 __Eugene Miller__
-IMG_3621.png
+![](IMG_3621.png)
 
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
