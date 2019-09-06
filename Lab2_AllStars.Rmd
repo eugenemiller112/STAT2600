@@ -85,6 +85,8 @@ My favorite color is blue.
  3.The greatest career accomplishment I hope is being an vice president of a middle or big company.
  4.I am hoping to learn how to use R language to analyze data and some basic knowledge of statsics. What's more, I want to get  'A-' or 'A' in this course.
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
+ 
+ 
  # Jingzhi Zhang
 
 * ![](C:\Users\zhang\OneDrive\Documents\R)
