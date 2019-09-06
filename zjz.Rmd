@@ -1,0 +1,18 @@
+---
+title: "Jingzhi Zhang"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Jingzhi Zhang
+
+* ![](C:\Users\zhang\OneDrive\Documents\R)
+* How many people in the world
+* Find an internship after six months and have a happy family after five years
+* To be a successful bussiness woman like my mother
+* To learn how to use R studio and use R studio to help me analyze data
+* The assignment due on my birthday, such a sad thing.
+
