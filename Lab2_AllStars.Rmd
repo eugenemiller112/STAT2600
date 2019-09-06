@@ -92,18 +92,30 @@ My favorite color is blue.
 >>>>>>> Stashed changes
 
 
+ 
  # Jingzhi Zhang
 
  ![](HIQI6256.jpg)
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
+
 * How many people in the world
+
 **What I Would Love to be Doing 6 Months After Graduation:**
+
 * Find an internship after six months.
+
 **What I Would Love to be Doing 5 Years After Graduation:**
+
 * Have a happy family after five years
+
 **What I Hope my Greatest Career Accomplishment Will be:**
+
 * To be a successful bussiness woman like my mother
+
 **What I am Hoping to Learn/Accomplish/Do in This Course:**
+
 * To learn how to use R studio and use R studio to help me analyze data
+
 **Random Fact**
+
 * The assignment due on my birthday, such a sad thing.
