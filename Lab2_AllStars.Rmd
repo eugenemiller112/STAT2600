@@ -1,0 +1,38 @@
+---
+title: "Lab2 Individual"
+author: "All Stars"
+date: "9/4/2019"
+output: html_document
+---
+
+Team Photo
+
+# All Stars
+
+Team's Main Goal for the Semester
+
+![](images/IMG_2060(1).jpg){width=250px}
+
+**One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
+
+How does student knowledge retention from TBL compare to traditional lecture courses?
+
+**What I Would Love to be Doing 6 Months After Graduation:**
+
+Be at a job where I can solidify the data science skills that I learned during school.
+
+**What I Would Love to be Doing 5 Years After Graduation:**
+
+Chilling with other data science homies and making money.
+
+**What I Hope my Greatest Career Accomplishment Will be:**
+
+Finding a new way for data to help in the practice of medicine. 
+
+**What I am Hoping to Learn/Accomplish/Do in This Course:**
+
+Improve my problem solving skills. This means being able to ask better questions and having R in my toolbox to explore solutions. 
+
+**Random Fact**
+
+I'm an extremely picky eater. 
