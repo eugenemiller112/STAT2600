@@ -5,9 +5,9 @@ date: "9/4/2019"
 output: html_document
 ---
 
-![](IMG_3629.jpeg){width=250px}
-
 # Team All Stars
+
+![](IMG_3629.jpeg){width=250px}
 
 **Team's Main Goal for the Semester:**
 
