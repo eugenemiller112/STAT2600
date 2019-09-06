@@ -1,19 +1,19 @@
 ---
-title: "Lab2"
+title: "Lab 2 Assignment"
 author: "All Stars"
 date: "9/4/2019"
 output: html_document
 ---
 
-Team Photo
-
 ![](IMG_3629.jpeg){width=250px}
 
 # Team All Stars
 
-Team's Main Goal for the Semester
+**Team's Main Goal for the Semester:**
 
 To work together effectively to analyze data and come to relevant conclusions.
+
+# About Me Sections
 
 # Johnny Tamanaha
 
