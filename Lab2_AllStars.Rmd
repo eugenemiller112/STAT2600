@@ -90,7 +90,7 @@ My favorite color is blue.
  
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
  
-<<<<<<< Updated upstream
+
  
   
   # Jingzhi Zhang
