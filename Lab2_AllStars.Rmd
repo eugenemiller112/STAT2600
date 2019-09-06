@@ -13,7 +13,7 @@ Team's Main Goal for the Semester
 
 # Johnny Tamanaha
 
-![](images/IMG_2060(1).jpg){width=250px}
+![](IMG_2060(1).jpg){width=250px}
 
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
