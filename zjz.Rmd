@@ -56,6 +56,9 @@ I'm an extremely picky eater.
 * In this course, I'm hoping to get positive exposure to the worlds of data analysis, coding, and statistics, and to see if it's something I'd want to learn more about in the future
 * A fun fact about myself is that I once pet Obama's dog while he was President
 
+Jingzhi's Feedback:  
+
+
 __Eugene Miller__
 ![](IMG_3621.png){width=250px}
 
@@ -83,6 +86,8 @@ Learn R and learning the basics of data science.
 
 My favorite color is blue.
 
+Jingzhi's Feedback: I think you have a very good format of the questions and answers. There is only one thing, it would be better if you could arrange your photo under your name and also use the first level header to your name. 
+
 # Kaiyuan Fan
  ![](photo1.jpg){width=250}
  
@@ -94,7 +99,7 @@ My favorite color is blue.
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
  
 
- **Feedback**
+Jingzhi's Feedback: Could you please 
 
 
 # Jingzhi Zhang
@@ -124,3 +129,4 @@ My favorite color is blue.
 **Random Fact**
 
 * The assignment due on my birthday, such a sad thing.
+

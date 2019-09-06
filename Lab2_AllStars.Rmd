@@ -85,6 +85,8 @@ Learn R and learning the basics of data science.
 
 My favorite color is blue.
 
+Jingzhi's Feedback: I think you have a very good format of the questions and answers. There is only one thing, it would be better if you could arrange your photo under your name and also use the first level header to your name. 
+
 # Kaiyuan Fan
  ![](photo1.jpg){width=250}
  
