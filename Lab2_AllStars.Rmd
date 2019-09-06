@@ -51,13 +51,15 @@ If you can state some examples of aspect solving skill you want to improve, it'l
 
 Eugene's Feedback: Your section is well formatted and your answers are down to earth and relatable, great work.
 
+Emily's Feedback: I appreciate how you connected your non-statistical question to what we're doing in this course with the TBL, it makes it interesting to think about since we're actually part of it.
+
 # Emily Archambault
 
 ![](mephoto.jpg){width=150px}
 
 * A question I'd like to learn the answer to by analyzing data would be how US elections would change if we switched to a popular or ranked voting system, instead of using the electoral college
 * Six months after graduation, I want to be starting a job or working on a Master's degree in a city I've never lived in before. Five years later, I'd love to be doing economics work in the government or in the Federal Reserve system
-* Persoanlly, my biggest career accomplishment would be to be happy in my job and feel like I can see the impacts of what I'm doing in the world around me in some way
+* Personally, my biggest career accomplishment would be to be happy in my job and feel like I can see the impacts of what I'm doing in the world around me in some way
 * In this course, I'm hoping to get positive exposure to the worlds of data analysis, coding, and statistics, and to see if it's something I'd want to learn more about in the future
 * A fun fact about myself is that I once pet Obama's dog while he was President
 
@@ -104,7 +106,7 @@ Jingzhi's Feedback: I think you have a very good format of the questions and ans
 Kaiyuan Fan's feedback: 
 You do well in this part. I can see your future plan and your dream clearly. It could be better that you can describe a little bit about your firm. 
 
-
+Emily's Feedback: I think it's cool that you have really specific goals for the future that relate to what we're doing in class. One suggestion would be to add a colon after the "random fact" title so it matches all of the other ones.
 
 # Kaiyuan Fan
  ![](photo1.jpg){width=250}
@@ -125,6 +127,8 @@ You do well in this part. I can see your future plan and your dream clearly. It 
 
  Eugene's Feedback: I too wonder why people in Boulder love to skate. Like Jingzhi said you could have added the questions next to your answers but overall your section is great. 
   
+ Emily's Feedback: Your question and random fact are interesting and fun, and I like that you have big aspirations for being in the business world. I'd suggest putting spaces after the numbers for each answer so it looks a little more clean. 
+
 # Jingzhi Zhang
 
  ![](HIQI6256.jpg){width=300}
@@ -156,3 +160,5 @@ You do well in this part. I can see your future plan and your dream clearly. It 
 Kaiyuan Fan's feedback: I think your individual part is good. You are quite creative. By the way, I want to say "Happy birthday to you". 
 
 Eugene's Feedback: Your section is very well formatted and neat, great job. Also, happy birthday!
+
+Emily's Feedback: Happy birthday! I like the formatting of your section with the bold questions and bulleted answers. You could give expand on some of your responses so we know more information, but nice job!
