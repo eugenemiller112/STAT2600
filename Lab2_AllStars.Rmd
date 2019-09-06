@@ -41,7 +41,11 @@ I'm an extremely picky eater.
 
 # Emily Archambault
 
+<<<<<<< HEAD
 ![](mephoto.jpg){width=150px}
+=======
+![](/users/EmilyArchambault/desktop/Data Science 2019/Week 1/mephoto.jpg)
+>>>>>>> master
 
 * A question I'd like to learn the answer to by analyzing data would be how US elections would change if we switched to a popular or ranked voting system, instead of using the electoral college
 * Six months after graduation, I want to be starting a job or working on a Master's degree in a city I've never lived in before. Five years later, I'd love to be doing economics work in the government or in the Federal Reserve system
