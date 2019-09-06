@@ -39,6 +39,8 @@ Improve my problem solving skills. This means being able to ask better questions
 
 I'm an extremely picky eater. 
 
+Jingzhi's Feedback: Everything looks great, I learned a lot from your construction.
+
 Kaiyuan Fan's feedback:
 I think you do well in your individual part. You have a very clear target for your future.
 If you can state some examples of aspect solving skill you want to improve, it'll be better.
@@ -54,6 +56,8 @@ If you can state some examples of aspect solving skill you want to improve, it'l
 * In this course, I'm hoping to get positive exposure to the worlds of data analysis, coding, and statistics, and to see if it's something I'd want to learn more about in the future
 * A fun fact about myself is that I once pet Obama's dog while he was President
 
+
+Jingzhi's Feedback: It is very nice to separate each answer, howere I found that the spacing between each row is a little bit close. Otherwise, everything looks perfect.
 
 Kaiyuan Fan's feedback: 
 I think you do well in your individual part. I think you are minded. You have your own thoughts on American politics. 
@@ -88,7 +92,9 @@ Learn R and learning the basics of data science.
 
 My favorite color is blue.
 
+
 Jingzhi's Feedback: I think you have a very good format of the questions and answers. There is only one thing, it would be better if you could arrange your photo under your name and also use the first level header to your name. 
+
 
 # Kaiyuan Fan
  ![](photo1.jpg){width=250}
@@ -105,6 +111,8 @@ Jingzhi's Feedback: I think you have a very good format of the questions and ans
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
  
 
+ Jingzhi's Feedback: I think you could add the questions before your answer so that would be easier for reader to read. In general, you are doing a very good job.
+
  
   
 # Jingzhi Zhang
@@ -113,7 +121,7 @@ Jingzhi's Feedback: I think you have a very good format of the questions and ans
 
 **One (non-statistics) Question I Would Like to Know the Answer to That Could be Answered by Analyzing Data:**
 
-* How many people in the world
+* Why do people lives in Boulder like to ask international student "How do you like Boulder?"
 
 **What I Would Love to be Doing 6 Months After Graduation:**
 

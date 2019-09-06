@@ -2,7 +2,6 @@
 title: "Jingzhi Zhang"
 output: html_document
 ---
----
 title: "Lab2 Individual"
 author: "All Stars"
 date: "9/4/2019"
@@ -43,8 +42,9 @@ Improve my problem solving skills. This means being able to ask better questions
 
 I'm an extremely picky eater. 
 
-**Feedback** I think you did very well 
-
+Kaiyuan Fan's feedback:
+I think you do well in your individual part. You have a very clear target for your future.
+If you can state some examples of aspect solving skill you want to improve, it'll be better.
 
 # Emily Archambault
 
@@ -56,8 +56,10 @@ I'm an extremely picky eater.
 * In this course, I'm hoping to get positive exposure to the worlds of data analysis, coding, and statistics, and to see if it's something I'd want to learn more about in the future
 * A fun fact about myself is that I once pet Obama's dog while he was President
 
-Jingzhi's Feedback:  
 
+Kaiyuan Fan's feedback: 
+I think you do well in your individual part. I think you are minded. You have your own thoughts on American politics. 
+It's really good that you have your plan after graduation. Morever, if you can give some fields that you may involve in the future, it'll be better.
 
 __Eugene Miller__
 ![](IMG_3621.png){width=250px}
@@ -93,15 +95,19 @@ Jingzhi's Feedback: I think you have a very good format of the questions and ans
  
  
  1.Why people in Boulder love to skating? 
+
  2.I would love to internship in a big company to gain experience and then five years later I want to be an leader of a team in the company.
+
  3.The greatest career accomplishment I hope is being an vice president of a middle or big company.
+ 
  4.I am hoping to learn how to use R language to analyze data and some basic knowledge of statsics. What's more, I want to get  'A-' or 'A' in this course.
+ 
  5.I like to play pingpang in my spare time. Therefore, if somebody has interest, please contact me.
  
+Jingzhi's Feedback: I think 
 
-Jingzhi's Feedback: Could you please 
-
-
+ 
+  
 # Jingzhi Zhang
 
  ![](HIQI6256.jpg){width=300}
@@ -129,4 +135,3 @@ Jingzhi's Feedback: Could you please
 **Random Fact**
 
 * The assignment due on my birthday, such a sad thing.
-
